@@ -54,7 +54,7 @@ so that it looks like this:
 Para ejecutar FRED desde un ambiente interactivo, más amigable que la interfaz normal, basada en archivos de datos,  se creó una interfaz gráfica, basada en una **Shiny-App** ejecutable desde **R** o **RStudio**. De esta manera, se facilita simular diferentes alternativas  y variantes, para un modelo determinado. Esta aplicación se puede descargar desde el repositorio <https://github.com/hdodiaz/FRED_covid_shiny.git>.
 
 ## Licencia
-La licencia del software original requiere que las versiones derivadas se comprometan a respetar los términos establecidos por los autores de la versión inicial. Por lo tanto, si usted desea utlizar esta versión, dberá comprometerse con los términos siguientes:
+La licencia del software original requiere que las versiones derivadas se comprometan a respetar los términos establecidos por los autores de la versión inicial. Por lo tanto, si usted desea utlizar esta versión, deberá comprometerse con los términos siguientes:
 
 
 
