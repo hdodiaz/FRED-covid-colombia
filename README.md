@@ -35,7 +35,7 @@ Esta versión ha sido adaptada a partir del sistema **FRED** original para model
 
 
 ### Notes on compiling (tomado de la versión original)
-By default FRED will try to use the clang compiler (newer versions of XCode for Mac will have this). If your compiler is not clang, you should find this section of FRED/src/Makefile and comment it out.
+By default FRED will try to use the clang compiler (newer versions of XCode for Mac will have this). If your compiler is not clang, you should find this section of **FRED/src/Makefile** and comment it out.
 
 ```
 # comment out if not using clang
@@ -48,6 +48,10 @@ so that it looks like this:
 # comment out if not using clang
 # CLANG_FLAGS = -mllvm -inline-threshold=1000
 ```
+
+## Licencia
+La licencia del software original requiere que las versiones derivadas se comprometan a respetar los términos establecidos por los autores de la versión inicial. Por lo tanto, si usted desea utlizar esta versión, dberá comprometerse con los términos siguientes:
+
 
 
 ## Shiny App Interfaz FRED-COVID
