@@ -15,7 +15,7 @@ En la elaboración de esta adaptación participaron las siguientes personas:
 
 - Diego Velandia, Universidad Nacional de Colombia
 
-- Hernando Díaz Morales, Universidad Nacional de Colombia
+- Hernando Díaz, Universidad Nacional de Colombia
 
 - Nelson Castañeda, Escuela tecnológica Instituto Técnico Central
 
@@ -52,5 +52,5 @@ so that it looks like this:
 
 ## Shiny App Interfaz FRED-COVID
 
-Para ejecutar FRED desde un ambiente interactivo, más amigable que la interfaz normal, basada en archivos de datos,  se creó una interfaz gráfica, basada en una **Shiny-App** ejecutable desde **R** o **RStudio**. De esta manera, se facilita simular diferentes alternativas  y variantes, para un modelo determinado. Esta aplicacón se puede descargar desde el repositorio <https://github.com/hdodiaz/FRED_covid_shiny.git>.
+Para ejecutar FRED desde un ambiente interactivo, más amigable que la interfaz normal, basada en archivos de datos,  se creó una interfaz gráfica, basada en una **Shiny-App** ejecutable desde **R** o **RStudio**. De esta manera, se facilita simular diferentes alternativas  y variantes, para un modelo determinado. Esta aplicación se puede descargar desde el repositorio <https://github.com/hdodiaz/FRED_covid_shiny.git>.
 
